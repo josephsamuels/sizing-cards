@@ -1,0 +1,10 @@
+{
+  "name": "sizing-cards",
+  "version": "1.0.0",
+  "description": "Cards for sizing things.",
+  "main": "index.js",
+  "repository": "https://github.com/josephsamuels/sizing-cards.git",
+  "author": "Joseph Samuels",
+  "license": "MIT",
+  "private": false
+}
